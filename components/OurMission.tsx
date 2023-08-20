@@ -11,7 +11,7 @@ const OurMission = () => {
                                 <path d="M22 11.08V12a10 10 0 11-5.93-9.14"></path>
                                 <path d="M22 4L12 14.01l-3-3"></path>
                             </svg>
-                            <span className="title-font font-medium">We never recommend something we wouldn’t recommend to our friends.</span>
+                            <span className="title-font font-medium">We never recommend something we would not recommend to our friends.</span>
                         </div>
                     </div>
                     <div className="p-2 sm:w-1/2 w-full">
